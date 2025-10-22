@@ -1,10 +1,25 @@
 # ProductCompanies.eu
 
+<div align="center">
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fproductcompanies.eu&up_message=online&up_color=0046FF&down_message=offline&down_color=FF9013&style=for-the-badge)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-4-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+![Contributions](https://img.shields.io/badge/contributions-welcome-0046FF?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-FF9013?style=for-the-badge)
+
+</div>
+
+---
+
 > Discover Europe's best tech product companies building real products
 
 **ProductCompanies.eu** is a curated directory showcasing European tech companies that build genuine, internally developed products. Explore opportunities through an interactive map, advanced filters, and detailed company information.
 
-**Live Site:** [https://productcompanies.eu](https://productcompanies.eu)
+**🌐 Live Site:** [https://productcompanies.eu](https://productcompanies.eu)
 
 ![ProductCompanies.eu Screenshot](frontend/public/og-image.png)
 
@@ -78,7 +93,7 @@ To be listed, a company must:
 - Have a **public website and careers page**
 - Employ engineers working on internal products
 
-**To suggest a company**, open an [issue](../../issues/new) using the [company suggestion template](./COMPANY_SUGGESTION.md). All suggestions are manually reviewed and added by the maintainer.
+**To suggest a company**, open an [issue](../../issues/new) using the [company suggestion template](.github/COMPANY_SUGGESTION.md). All suggestions are manually reviewed and added by the maintainer.
 
 ## API Overview
 

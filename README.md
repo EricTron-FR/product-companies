@@ -19,7 +19,7 @@
 
 **🌐 Live Site:** [https://productcompanies.eu](https://productcompanies.eu)
 
-![ProductCompanies.eu Screenshot](frontend/public/og-image.png)
+![ProductCompanies.eu Screenshot](og-image.png)
 
 ## Overview
 

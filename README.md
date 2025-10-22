@@ -2,7 +2,7 @@
 
 > Discover Europe's best tech product companies building real products
 
-**ProductCompanies.eu** is an open-source directory showcasing European tech companies that build genuine, internally developed products. Explore opportunities through an interactive map, advanced filters, and detailed company information.
+**ProductCompanies.eu** is a curated directory showcasing European tech companies that build genuine, internally developed products. Explore opportunities through an interactive map, advanced filters, and detailed company information.
 
 **Live Site:** [https://productcompanies.eu](https://productcompanies.eu)
 
@@ -10,7 +10,7 @@
 
 ## Overview
 
-ProductCompanies.eu helps professionals discover real product-driven tech companies in Europe — not agencies or consultancies. Each entry highlights company details, tech stack, and hiring information, enabling users to explore authentic engineering opportunities.
+ProductCompanies.eu helps professionals discover real product-driven tech companies in Europe. Each entry highlights company details, tech stack, and hiring information, enabling users to explore authentic engineering opportunities.
 
 ## Features
 
@@ -65,20 +65,20 @@ Each company entry follows this structure:
 
 ## Contributing
 
-We welcome contributions from the community. You can:
-- Add new companies that meet the criteria  
-- Send bugs or task to improve UI/UX  
+We welcome suggestions from the community! You can help by:
+- Suggesting companies that meet our criteria
+- Reporting bugs or proposing feature ideas
 
-### Company Submission Guidelines
+### How to Suggest a Company
 
 To be listed, a company must:
-- Be a **product company**
-- Be **based in Europe**  
-- Be **actively developing tech products**  
-- Have a **public website and careers page**  
-- Employ engineers working on internal products  
+- Be a **product company** 
+- Be **based in Europe**
+- Be **actively developing tech products**
+- Have a **public website and careers page**
+- Employ engineers working on internal products
 
-To add a company, open a [Pull Request](../../pulls) using the provided [template](.github/PULL_REQUEST_TEMPLATE.md).
+**To suggest a company**, open an [issue](../../issues/new) using the [company suggestion template](.github/COMPANY_SUGGESTION.md). All suggestions are manually reviewed and added by the maintainer.
 
 ## API Overview
 
@@ -100,10 +100,6 @@ Planned features for future versions include:
 - Company metadata (size, founding year)  
 - Popularity metrics and favorites  
 
-## License
-
-This project is distributed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Company logos provided by [Clearbit](https://clearbit.com)  
@@ -112,10 +108,9 @@ This project is distributed under the [MIT License](LICENSE).
 
 ## Contact
 
-Questions or suggestions?  
-- Open an [issue](../../issues)  
-- Submit a [pull request](../../pulls)  
-- Visit [productcompanies.eu](https://productcompanies.eu)  
+Questions or suggestions?
+- Open an [issue](../../issues)
+- Visit [productcompanies.eu](https://productcompanies.eu)
 
 ---
 

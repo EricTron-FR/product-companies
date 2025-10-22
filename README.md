@@ -91,7 +91,7 @@ To be listed, a company must:
 - Have a **public website and careers page**
 - Employ engineers working on internal products
 
-**To suggest a company**, open an [issue](../../issues/new) using the [company suggestion template](.github/COMPANY_SUGGESTION.md). All suggestions are manually reviewed and added by the maintainer.
+**To suggest a company**, open an [issue](../../issues/new) using the [company suggestion template](COMPANY_SUGGESTION.md). All suggestions are manually reviewed and added by the maintainer.
 
 ## API Overview
 
